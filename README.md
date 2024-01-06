@@ -1,0 +1,2 @@
+# Systemic-Crisis-Prediction-in-African-Economies-ML-Analysis
+This repository focuses on predicting systemic crises in African economies using machine learning techniques. The objective is to build an ML model capable of forecasting the likelihood of systemic crisis emergence based on annual indicators. The repository includes data exploration, preprocessing, feature selection, model training, evaluation
